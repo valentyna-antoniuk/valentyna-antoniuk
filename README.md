@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Valentyna Antoniuk
 
-I am an experienced Front-end developer with over 7 years of
+I am an experienced Front-end developer with over 8 years of
 experience. I love JS, creating useful products, and finding
 interesting solutions.
 
