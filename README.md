@@ -34,8 +34,8 @@ I am an experienced Front-end developer with over 8 years of experience. I love 
 
 #### Testing
 [![Storybook](https://img.shields.io/badge/Storybook-white?style=flat-square&logo=storybook&logoColor=FF4785)](https://storybook.js.org/)
+[![React Testing Library](https://img.shields.io/badge/React_Testing_Library-white?style=flat-square&logo=testing-library&logoColor=E33332)](https://testing-library.com/docs/react-testing-library/intro/)
 [![Playwright](https://img.shields.io/badge/Playwright-white?style=flat-square&logo=playwright&logoColor=45ba4b)](https://playwright.dev/)
-[![React Testing Library](https://img.shields.io/badge/React_Testing_Library-white?style=flat-square&logo=react-testing-library&logoColor=E33332)](https://testing-library.com/docs/react-testing-library/intro/)
 
 #### Other Tools
 [![Vite](https://img.shields.io/badge/Vite-white?style=flat-square&logo=vite&logoColor=B73BFE)](https://vitejs.dev/)
